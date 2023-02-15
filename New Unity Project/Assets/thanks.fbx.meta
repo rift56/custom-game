@@ -39,6 +39,7 @@ ModelImporter:
     2300014: Cube.006
     2300016: Cube.009
     2300018: Cylinder.007
+    2300020: //RootNode
     3300000: Circle
     3300002: Circle.008
     3300004: Cube.003
@@ -49,6 +50,7 @@ ModelImporter:
     3300014: Cube.006
     3300016: Cube.009
     3300018: Cylinder.007
+    3300020: //RootNode
     4300000: Circle
     4300002: Cube.003
     4300004: Circle.008
@@ -59,6 +61,7 @@ ModelImporter:
     4300014: Cube.006
     4300016: Cylinder.007
     4300018: Cube.009
+    4300020: Cube.005
   materials:
     importMaterials: 1
     materialName: 0
